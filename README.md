@@ -10,6 +10,7 @@
   - 到达目标：`+25`
   - 撞上障碍：`-10`
   - 每移动一步：`-1`
+<img width="1273" height="769" alt="image" src="https://github.com/user-attachments/assets/788382f8-1ea9-4e01-913f-14110a6c948e" />
 
 ---
 
